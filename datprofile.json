@@ -1,0 +1,7 @@
+[
+  {
+    "name": "dlc.dat",
+    "mode": "allowlist",
+    "lists": ["lawtlydirect", "lawtlyblock", "lawtlyproxy"]
+  }
+]
